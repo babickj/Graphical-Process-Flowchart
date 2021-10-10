@@ -1,0 +1,7 @@
+key,Name,xPos,yPos,Dist,Mean,Var,children
+0,Alert,500,100,Norm,5,0,1
+1,Recall,500,200,Norm,6,0,2,3
+2,Prepare,300,300,Poi,2,1,4
+3,Ship to airport,700,300,Poi,2,0,4
+4,Mobilize,500,400,Poi,2,1,5
+5,TTFR,500,500,end,0,0

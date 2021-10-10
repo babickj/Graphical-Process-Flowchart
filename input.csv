@@ -1,0 +1,19 @@
+Index,Name,xPos,yPos,dist,mean,Var,Child,,
+0,Alert,500,20,Norm,0.5,0,1,,
+1,URC_Informed,500,100,Norm,0.5,0,2,,
+2,Recall,500,180,Norm,2,0,3,4,5
+3,VOO_Selection,100,260,Norm,8,0,6,,
+4,Aircraft_Arrive,500,260,Norm,8,0,7,,
+5,Eq_Palletized and transported,800,260,Norm,6,0,7,,
+6,VOO arrives at rescue seaport,300,340,Norm,24,0,12,,
+7,Load Plans,700,340,Norm,6,0,8,,
+8,1st Plane Depart,500,420,Norm,2,0,9,,
+9,Eq arrive seaport,600,500,Norm,10,0,12,13,14
+10,Supporting Eq arrive at airport,100,340,Norm,24,0,12,,
+11,Support Eq arrive at seaport,50,430,Norm,24,0,12,,
+12,Mobilize on VOO,200,580,Norm,36,0,13,14,15
+13,Mooring VOO transit,700,660,Norm,9,0,16,,
+14,Intervention VOO transit,300,660,Norm,9,0,16,,
+15,Rescue VOO transit,700,660,Norm,9,0,16,,
+16,Moor or Establish DP2,500,760,Norm,2,0,17,,
+17,TTFR,500,840,end,0,0,,,
